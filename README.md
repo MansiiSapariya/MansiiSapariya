@@ -105,7 +105,7 @@ English · Hindi · Gujarati · Chhattisgarhi
 ## 📫 Connect with Me
 
 * **Email**: [mansisapariya22@gmail.com](mailto:mansisapariya22@gmail.com)
-* **LinkedIn**: [Manis Sapariya](https://www.linkedin.com/in/mansi-sapariya/)]
+* **LinkedIn**: [Mansi Sapariya](https://www.linkedin.com/in/mansi-sapariya/)]
 * **GitHub**: [MansiiSapariya](https://github.com/MansiiSapariya)
 
 ---
