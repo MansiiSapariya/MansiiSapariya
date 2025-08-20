@@ -30,13 +30,13 @@ Passionate about transforming raw data into **actionable insights** and building
 * Enables **adding, categorizing, and visualizing** spending patterns.
 * Supports intelligent financial management for individuals and small businesses.
 
-### 🔹 Automated Defect Detection in Manufacturing *(Academic Project)*
+### 🔹 [Automated Defect Detection in Manufacturing](https://github.com/MansiiSapariya/Automated-Defect-Detection-and-Visual-Inspection-for-Quality-Control-in-Manufacturing)
 
 * Used **Convolutional Autoencoder (CAE), U-Net, and PatchCore** on the **MVTec AD dataset**.
 * Developed a **multi-model anomaly detection pipeline** for industrial quality control.
 * Built an **interactive Gradio UI** for real-time defect inspection.
 
-### 🔹 BundleWise: A Retail Analytics Tool for Smart Bundling and Profit-Driven Pricing
+### 🔹 [BundleWise: A Retail Analytics Tool for Smart Bundling and Profit-Driven Pricing](https://github.com/MansiiSapariya/BundleWise-A-Retail-Analytics-Tool-for-Smart-Bundling-and-Profit-Driven-Pricing)
 
 * **Introduction**: A web-based application helping retailers discover **smart product bundles** and optimize **dynamic pricing**.
 * **Objective**: Enable merchants to identify meaningful product relationships, forecast demand, and maximize profit through data-informed decisions.
