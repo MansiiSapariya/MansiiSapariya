@@ -1,26 +1,36 @@
-# Hi, I'm Mansi Sapariya 👋  
-🎓 MSc Data Science Student | 💻 Data Analyst Enthusiast | 📊 Aspiring Machine Learning Engineer  
+# Hi, I'm Mansi Sapariya
+
+**MSc Data Science Student** | **Data Analyst Enthusiast** | **Aspiring Machine Learning Engineer**
+
+Passionate about transforming data into insights and building impactful, AI-powered solutions.
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+##  Tech Stack
 
-**Data & Big Data:** Excel | MySQL | Pig | Hadoop  
-**Visualization:** Power BI | Tableau | Orange | Jupyter Notebook | Advanced Excel  
-**CMS:** WordPress | Drupal  
-
----
-
-## 🌟 Featured Projects  
-- 📰 [Fake News Detection using ML](#) – ML models to classify news as real or fake.  
-- 🏦 [Bank Accounts Management System](#) – Database system for managing accounts & transactions.  
-- 🏏 [Cricket Data Analysis](#) – Statistical analysis of batting strike rates using hypothesis testing.  
-- ☁️ [Cloud-Based Data Warehouse Architecture](#) – Designed Star & Snowflake schema on cloud.  
+- **Languages & Tools**: Python · Java · R · SQL · PHP · HTML · CSS  
+- **Data & Big Data**: Excel · MySQL · Pig · Hadoop  
+- **Visualization**: Power BI · Tableau · Orange · Jupyter Notebook · Advanced Excel  
+- **CMS Platforms**: WordPress · Drupal  
 
 ---
 
-## 📚 Certifications  
+##  Featured Projects
+
+### 1. **Fake-News-Detection**
+- Built and benchmarked models including **Logistic Regression**, **SVM**, **LSTM**, and **BERT**.
+- Prioritized **precision**, **ethical AI practices**, and **model explainability** in detecting misinformation. :contentReference[oaicite:0]{index=0}
+
+### 2. **Expense-Tracker**
+- A **web-based tool** for tracking expenses—enabling users to add, categorize, and visualize spending.
+- Supports intelligent financial management for both personal and small business use. :contentReference[oaicite:1]{index=1}
+
+*(Optional: If you'd like, I can also include summaries for your other repositories like the VAE-Face-Generation or Google_Map_Scraper.)*
+
+---
+
+##  Certifications & Achievements
+
 - Excel for Data Analysis  
 - Python for Data Science, AI & Development  
 - Data Visualization with Excel  
@@ -29,27 +39,41 @@
 
 ---
 
-## 💼 Experience  
-- **Data Analyst Placement Team Member** – Automated data extraction & cleaning with Excel & MySQL.  
-- **Content Writer @ Iskcon Temple** – Produced engaging, optimized content.  
-- **IT Team Member @ Youth India Foundation** – Implemented performance improvement strategies.  
+##  Experience & Engagement
+
+- **Data Analyst Placement Team Member** — Automated data extraction and cleansing workflows using **Excel** and **MySQL**.  
+- **Content Writer @ ISKCON Temple** — Crafted engaging and SEO-optimized content for outreach.  
+- **IT Team Member @ Youth India Foundation** — Implemented strategies to improve performance and user engagement.
 
 ---
 
-## 🌍 Languages  
-English | Hindi | Gujarati | Chhattisgarhi  
+##  Languages
+
+English · Hindi · Gujarati · Chhattisgarhi
 
 ---
 
-## 📊 GitHub Stats  
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MansiSapariya&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MansiSapariya&layout=compact&theme=radical)  
+##  GitHub Highlights
+
+- **Pinned Projects**:
+  - *Automated Defect Detection and Visual Inspection for Quality Control in Manufacturing*
+  - *Flicker8k Generator App*
+  - *Fake-News-Detection* :contentReference[oaicite:2]{index=2}
+
+*(Consider adding the Expense-Tracker project to the pinned section for enhanced visibility.)*
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sapariya-4545b22)  
-📧 **Email:** mansisapariya22@gmail.com  
+##  Connect with Me
+
+- **LinkedIn**: [your LinkedIn profile link]  
+- **Email**: mansisapariya22@gmail.com  
 
 ---
-✨ *“Passionate about turning data into meaningful insights and building impactful solutions.”*  
+
+*"Driven by curiosity, data, and the desire to develop meaningful AI-powered solutions."*
+
+---
+
+Let me know if you'd like the README tailored for a specific project (e.g., expanded documentation for the Fake-News-Detection repo), or if you'd like the other repositories summarized similarly!
+::contentReference[oaicite:3]{index=3}
