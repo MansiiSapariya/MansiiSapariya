@@ -1,79 +1,115 @@
-# Hi, I'm Mansi Sapariya
+# 👋 Hi, I'm Mansi Sapariya
 
-**MSc Data Science Student** | **Data Analyst Enthusiast** | **Aspiring Machine Learning Engineer**
+🎓 **MSc Data Science (2MDS)** | 📊 **Data Analyst & ML Enthusiast** | 🤖 **AI & Deep Learning Explorer**
 
-Passionate about transforming data into insights and building impactful, AI-powered solutions.
-
----
-
-##  Tech Stack
-
-- **Languages & Tools**: Python · Java · R · SQL · PHP · HTML · CSS  
-- **Data & Big Data**: Excel · MySQL · Pig · Hadoop  
-- **Visualization**: Power BI · Tableau · Orange · Jupyter Notebook · Advanced Excel  
-- **CMS Platforms**: WordPress · Drupal  
+Passionate about transforming raw data into **actionable insights** and building **AI-powered solutions** for real-world impact.
 
 ---
 
-##  Featured Projects
+## 🚀 Tech Stack
 
-### 1. **Fake-News-Detection**
-- Built and benchmarked models including **Logistic Regression**, **SVM**, **LSTM**, and **BERT**.
-- Prioritized **precision**, **ethical AI practices**, and **model explainability** in detecting misinformation. :contentReference[oaicite:0]{index=0}
-
-### 2. **Expense-Tracker**
-- A **web-based tool** for tracking expenses—enabling users to add, categorize, and visualize spending.
-- Supports intelligent financial management for both personal and small business use. :contentReference[oaicite:1]{index=1}
-
-*(Optional: If you'd like, I can also include summaries for your other repositories like the VAE-Face-Generation or Google_Map_Scraper.)*
+* **Programming**: Python · Java · R · SQL · PHP · HTML · CSS
+* **Data & Big Data**: MySQL · Excel · Pig · Hadoop
+* **Visualization**: Tableau · Power BI · Orange · Advanced Excel
+* **Frameworks & Libraries**: TensorFlow · Keras · PyTorch · OpenCV · Scikit-Learn · Pandas · NumPy · Matplotlib · Seaborn
+* **CMS Platforms**: WordPress · Drupal
 
 ---
 
-##  Certifications & Achievements
+## 📂 Featured Projects
 
-- Excel for Data Analysis  
-- Python for Data Science, AI & Development  
-- Data Visualization with Excel  
-- Data Analysis with Python  
-- Cloud Computing  
+### 🔹 [Fake News Detection](https://github.com/MansiiSapariya/Fake-News-Detection)
+
+* Implemented ML & DL models including **Logistic Regression, SVM, LSTM, and BERT**.
+* Prioritized **precision**, **model interpretability**, and **ethical AI** in detecting misinformation.
+* Built a reusable pipeline for **data preprocessing, model training, and evaluation**.
+
+### 🔹 [Expense Tracker](https://github.com/MansiiSapariya/Expense-Tracker)
+
+* A **web-based expense management tool**.
+* Enables **adding, categorizing, and visualizing** spending patterns.
+* Supports intelligent financial management for individuals and small businesses.
+
+### 🔹 Automated Defect Detection in Manufacturing *(Academic Project)*
+
+* Used **Convolutional Autoencoder (CAE), U-Net, and PatchCore** on the **MVTec AD dataset**.
+* Developed a **multi-model anomaly detection pipeline** for industrial quality control.
+* Built an **interactive Gradio UI** for real-time defect inspection.
+
+### 🔹 BundleWise: A Retail Analytics Tool for Smart Bundling and Profit-Driven Pricing
+
+* **Introduction**: A web-based application helping retailers discover **smart product bundles** and optimize **dynamic pricing**.
+* **Objective**: Enable merchants to identify meaningful product relationships, forecast demand, and maximize profit through data-informed decisions.
+* **Scope**:
+
+  * Retail-focused, standalone web app
+  * Designed for **SMEs** with limited infrastructure
+  * Input: Retail transaction data via **CSV upload**
+  * Output: Actionable insights, optimized pricing, and **exportable reports**
+* **Core Features**:
+
+  * Data upload & preprocessing
+  * Bundle discovery via **sequential pattern mining**
+  * Sales & profit forecasting using **predictive analytics**
+  * Dynamic pricing optimization
+  * Interactive dashboards & reporting
+* **Impact**: Makes **advanced retail analytics accessible to all merchants**, regardless of technical expertise.
 
 ---
 
-##  Experience & Engagement
+## 🏆 Certifications
 
-- **Data Analyst Placement Team Member** — Automated data extraction and cleansing workflows using **Excel** and **MySQL**.  
-- **Content Writer @ ISKCON Temple** — Crafted engaging and SEO-optimized content for outreach.  
-- **IT Team Member @ Youth India Foundation** — Implemented strategies to improve performance and user engagement.
+* **Excel for Data Analysis**
+* **Python for Data Science, AI & Development**
+* **Data Analysis with Python**
+* **Data Visualization with Excel**
+* **Cloud Computing**
 
 ---
 
-##  Languages
+## 💼 Experience
+
+* **Data Analyst – Girl Power Talk** *(Aug 2023 – Jan 2025)*
+
+  * Automated data workflows using **Excel** & **MySQL**.
+  * Delivered actionable insights improving decision-making efficiency.
+
+* **Content Writer – ISKCON Temple**
+
+  * Created engaging, SEO-optimized content for outreach and awareness.
+
+* **IT Team Member – Youth India Foundation**
+
+  * Implemented IT strategies to boost performance and engagement.
+
+---
+
+## 🌍 Languages
 
 English · Hindi · Gujarati · Chhattisgarhi
 
 ---
 
-##  GitHub Highlights
+## 📊 GitHub Highlights
 
-- **Pinned Projects**:
-  - *Automated Defect Detection and Visual Inspection for Quality Control in Manufacturing*
-  - *Flicker8k Generator App*
-  - *Fake-News-Detection* :contentReference[oaicite:2]{index=2}
+* Pinned Projects:
 
-*(Consider adding the Expense-Tracker project to the pinned section for enhanced visibility.)*
-
----
-
-##  Connect with Me
-
-- **LinkedIn**: [your LinkedIn profile link]  
-- **Email**: mansisapariya22@gmail.com  
+  * **Fake News Detection**
+  * **Expense Tracker**
+  * **Automated Defect Detection**
+  * **BundleWise**
+  * **Flicker8k Generator App**
 
 ---
 
-*"Driven by curiosity, data, and the desire to develop meaningful AI-powered solutions."*
+## 📫 Connect with Me
+
+* **Email**: [mansisapariya22@gmail.com](mailto:mansisapariya22@gmail.com)
+* **LinkedIn**: [Manis Sapariya](https://www.linkedin.com/in/mansi-sapariya/)]
+* **GitHub**: [MansiiSapariya](https://github.com/MansiiSapariya)
 
 ---
 
-Let me know if you'd like the README tailored for a specific project (e.g., expanded documentation for the Fake-News-Detection repo), or if you'd like the other repositories summarized similarly!
-::contentReference[oaicite:3]{index=3}
+✨ *“Driven by curiosity, data, and the desire to develop meaningful AI-powered solutions.”* ✨
+
+---
